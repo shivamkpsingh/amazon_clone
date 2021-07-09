@@ -12,14 +12,14 @@ const Home = () => {
       />
       <div className="home__row">
         <Product
-          id="1222"
+          id="1022"
           title="Essentials for your safety"
           price={1200}
           rating={5}
           image="https://m.media-amazon.com/images/I/41BzNL2R+KL._AC_SY200_.jpg"
         />
         <Product
-          id="1222"
+          id="1922"
           title="For your computer"
           price={3994}
           rating={4}
@@ -28,21 +28,21 @@ const Home = () => {
       </div>
       <div className="home__row">
         <Product
-          id="1222"
+          id="7222"
           title="For your computer setup"
           price={599}
           rating={5}
           image="https://m.media-amazon.com/images/I/41JUbD67xQS._AC_SY200_.jpg"
         />
         <Product
-          id="1222"
+          id="12222"
           title="Let's start video game "
           price={1299}
           rating={3}
           image="https://m.media-amazon.com/images/I/41WuEc7I4PL.__AC_SY200_.jpg"
         />
         <Product
-          id="1222"
+          id="1223"
           title="Clothing for your party"
           price={5599}
           rating={5}
