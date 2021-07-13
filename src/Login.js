@@ -23,7 +23,7 @@ const Login = () => {
     auth
       .createUserWithEmailAndPassword(email, password)
       .then((auth) => {
-        history.push("/");
+        history.push("");
       })
       .catch((e) => alert(e.message));
   };

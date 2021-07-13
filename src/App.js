@@ -33,7 +33,7 @@ const App = () => {
       unsubscribe();
     };
   }, []);
-  console.log(user);
+  console.log('user is ',user);
 
   return (
     <Router>
