@@ -11,7 +11,11 @@ const Header = () => {
   // console.log(basket);
   const login = () => {
     if (user) {
+      console.log('usr is ',user);
+      
       auth.signOut();
+      console.log('user is ',user);
+      
     }
   };
   return (

@@ -10,6 +10,7 @@
     width: 100%;
     background-color: white;
     z-index: 1;
+    overflow-x: hidden;
 }
 .product__price{
     margin-top: 5px;
